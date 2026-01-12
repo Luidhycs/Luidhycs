@@ -10,8 +10,8 @@ Ela representa como eu penso, projeto e desenvolvo software.
 
 ### 👤 Quem eu sou
 <p>
-Meu nome é <strong>Luidhy Conceição dos Santos</strong>, Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas.
-A Ludexis é o método que utilizo para criar soluções: arquitetura primeiro, decisões bem definidas e foco em clareza.
+Meu nome é <strong>Luidhy Conceição dos Santos</strong>, Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas, com foco em soluções digitais eficientes e bem estruturadas.
+A Ludexis é a identidade que utilizo para organizar meus projetos: priorizo arquitetura sólida, decisões estratégicas e clareza na execução, sempre buscando transformar ideias em soluções práticas e funcionais.
 </p>
 
 <p>
