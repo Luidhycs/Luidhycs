@@ -1,34 +1,41 @@
 <h1 align="center">Ludexis</h1>
-<p align="center"><strong>Architecture, logic, and code — in that order.</strong></p>
+<p align="center"><strong>Arquitetura, lógica e código — nessa ordem.</strong></p>
 
 <p align="center">
-Decision-driven software.<br/>
-Designed before it is written.
+Ludexis é minha identidade profissional.<br/>
+Ela representa como eu penso, projeto e desenvolvo software.
 </p>
 
 ---
 
-### 👤 The person behind Ludexis
+### 👤 Quem eu sou
 <p>
-My name is <strong>Luidhy Conceição dos Santos</strong>, a Software Developer with a background in Systems Analysis and Development.
-I work on transforming complex rules and requirements into clear, functional, and scalable systems.
+Meu nome é <strong>Luidhy Conceição dos Santos</strong>, Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas.
+A Ludexis é o método que utilizo para criar soluções: arquitetura primeiro, decisões bem definidas e foco em clareza.
 </p>
 
 <p>
-My approach is architecture-first: I focus on understanding the problem, modeling decisions and flows, and only then implementing code.
+Cada projeto apresentado aqui segue essa lógica — entender o problema, modelar regras e decisões, e só então escrever código.
 </p>
 
 ---
 
-### 🧠 What I work on
-- Rule-oriented systems
-- APIs and integrations
-- Automation and intelligent bots
-- Functional and scalable MVPs
+### 🧠 O que a Ludexis representa
+- Sistemas pensados antes de serem construídos
+- Arquiteturas orientadas a regras e decisões
+- Software feito para evoluir, não apenas funcionar
 
 ---
 
-### ⚙️ Stack & Tools
+### 🧠 No que eu atuo
+- Sistemas orientados a regras
+- APIs e integrações
+- Automações e bots inteligentes
+- MVPs funcionais e escaláveis
+
+---
+
+### ⚙️ Stack & Ferramentas
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" />
@@ -41,7 +48,7 @@ My approach is architecture-first: I focus on understanding the problem, modelin
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Conecte-se comigo
 <p align="center">
   <a href="https://linkedin.com/in/luidhytéc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&style=for-the-badge" height="25"/>
@@ -51,5 +58,5 @@ My approach is architecture-first: I focus on understanding the problem, modelin
 ---
 
 <p align="center">
-<em>Ludexis is how I think. Code is the result.</em>
+<em>Ludexis não é uma empresa. É a forma como eu trabalho.</em>
 </p>
