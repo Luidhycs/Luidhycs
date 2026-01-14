@@ -8,7 +8,7 @@ Meu nome é <strong>Luidhy Conceição dos Santos</strong>, Desenvolvedor de Sof
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/lluidhy" target="_blank">
+  <a href="https://www.linkedin.com/in/lluidhy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
    <a href="luidhy.contact@gmail.com" target="_blank">
